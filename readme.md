@@ -1,15 +1,13 @@
-# Laravel Quickstart - Basic
+# Laravel Update task
 
-## Quck Installation
+## Quick Installation
 
-    git clone https://github.com/laravel/quickstart-basic quickstart
+    git clone https://github.com/amare87/kurup_87 update-task
 
-    cd quickstart
+    cd update-task
 
     composer install
 
     php artisan migrate
 
     php artisan serve
-
-[Complete Tutorial](https://laravel.com/docs/5.2/quickstart)
